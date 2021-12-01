@@ -114,7 +114,7 @@ Creating Manifest Academy we can educate and elevate our community, keeping them
 
 We created a blank canvas of community and told people “Hey, you guys decide what you want to work on and we’ll just support you in making it happen.” We’ve seen three projects come out of that. A policy team formed, a translation team (over 6 languages!) and Manifest Academy evolved from resource curation to gamified learning.
 
-Manifest Incentives
+*Manifest Incentives*
 
 The NFT sale is the MNFST sale. We’ve always thought simplicity is the truth and we’ve proved it again through our actions. Manifest’s sale of MNFST will be done through our Genesis Hoodie NFTs.
 
@@ -134,7 +134,7 @@ By being powered by OHM, we use one of the best incentive structures and get exp
 
 All of our websites will display “Powered by OHM” at the bottom of the page. We truly believe Olympus is the best decentralized bank, and we’re the first real-world business to open an account. We look forward to being one of the largest OHM holders.
 
-Manifest Mechanisms
+*Manifest Mechanisms*
 
 Our initial policy for genesis stands as the chart below.
 
@@ -145,20 +145,20 @@ By Season 1, when Manifest will have greater demand and more than 999 NFTs being
 
 If our demand is high, we can raise the amount of MNFST required to mint, therefore regulating supply and demand. Drops can be time-limited, meaning unlimited NFTs can be sold within a certain period of time. Or, drops can be limited, meaning there’s a set supply of outstanding NFTs that can be minted. All of these factors go into consideration when deciding how much MNFST to charge for each NFT.
 
-Manifest in the Real-World
+*Manifest in the Real-World*
 
 Manifest will use the mimetic value from having a successful protocol to get into rooms with artists, designers, rappers, and streetwear veterans to do collaborations often. We believe we can perpetually build hype by doing crazier and crazier collabs, sparking a flywheel effect of growth in the treasury and the value of MNFST.
 
 We’ll use our real-world LLC to sign manufacturing contracts and meet all the requirements to create our physical hoodies and merch for other protocols that want to ship on Manifest. We’ll set up our own distribution and ensure everyone gets their Manifest hoodies when claiming is released.
 Manifest turns everyone into a business, a franchise, a cooperating component of the Becoming of Manifest’s Vision. By allowing you to rebase MNFST, you can use the MNFST to sell back to the liquidity pool, claim NFTs to flip on Opensea/Rarible, or stake the NFTs in our pool, and you can also claim the physical clothing to sell in real life.
 
-Manifest Checkout & Shipping
+*Manifest Checkout & Shipping*
 
 Our NFTs are ERC1155 meaning they can be batch transferred, we want to ideally create a similar shopping experience to carts, you will be able to add multiple articles of clothing from different pools and collections into one checkout cart, fill out your sizing guidelines, and address, and have everything shipped to you at once.
 
 We’re nearing genesis, Our Discord has plenty of information for those aligned enough to manifest it. Everything in Perfect Timing. Here’s an example of Perfect Timing, if you are reading this you are energetically aligned with Manifest, there’s no such thing as a coincidence.
 
-Manifest Genesis NFTs
+*Manifest Genesis NFTs*
 
 Our three Season 0 Genesis Hoodies, in Perfect Timing for the Fall/Winter 2021 Hoodie Season.
 
@@ -185,7 +185,7 @@ Manifesters,
 
 We’ve reached 2000 followers on Twitter, over 1.3k humans on Manifest’s server, and more than 360 boosts. Thank you for the meaningful interactions, the amount of contribution, and for attracting an amazing group of individuals to our collective.
 
-Phases
+*Phases*
 
 Manifest launches in three phases, the first phase is staking and bonding launching at the same time as the genesis drop. We’re launching the SΞAS0N 0: GΞNΞS1S drop, staking, and bonding on Friday, November 26th.
 
@@ -194,7 +194,7 @@ The second phase is MNFST/NFT pools allowing users to sell/buy/stake their NFTs.
 The third phase is an easy-to-use frontend to claim your physical clothing. Swapping your NFT for a claimed version of the NFT, that swap generating a transaction hash, then deriving a QR code from that transaction hash, and finally, stitching it onto the physical hoodie.
 Then creating a simple user experience to submit your address, size, and email for confirmation & shipping updates.
 
-Who can mint?
+*Who can mint?*
 
 Minting will open at Perfect Timing on November 26th. Minting will be open to Manifesters that secured their spot through boosting or joining the Collective before November 9th, 3:33 PM EST. If you contributed after November 9th, we ensured that you have a spot. Learn more about the Collective here.
 To all of the people who had one-on-one conversations with us, those that spoke with us on voice, and those that aligned themselves with Manifest, thank you. It’s high-priority to always reward missionaries over mercenaries.
@@ -216,23 +216,24 @@ Flow
 Creator — you’re an artist that recognizes living in flow is the highest path to walk in life. Every art piece you create, whether it’s a painting or song, is filled with emotion and passion and perfectly flows effortlessly through your hands, mouth, and senses. It’s through this creation, this birth of manifestation from source you truly feel alive. You create for yourself, you create for something higher than yourself, your work resonates deeply with the collective. And, so it is.
 <<<hoodie.manifestCreation()
 
-Creation
+*Creation*
+
 Builder — you prefer a solid workstation and divine inspiration, you’re Edison with a lightbulb. You’re Dyson with a vacuum. You’re a creator in your own way, you bring about revolutions and evolution for the human race. You may be a tinkerer for yourself first and foremost, but the universe always has bigger plans in store for you. Your inventions, your creations, will leave a mark on human history. You want to create something that stands long after you pass. And, you will.
 How does Manifest genesis work?
 
 There are 999 NFTs total, 333 are reserved for the treasury & team, 90 of the 333 reserved NFTs will go to the team. This results in a 9% team, 24% treasury, and 67% public split.
 
-Staking
+*Staking*
 
 If you mint the Genesis NFTs, you automagically receive 33 sMNFST, rebasing every eight hours compounding at 333,333% APY. Staked sMNFST can be unstaked for MNFST, which can be sold to the MNFST-OHM Sushiswap liquidity pool (LP) at any time. No restrictions, no lock-ups.
 
-Bonding
+*Bonding*
 
 Bonding will be available at launch as the second value accrual strategy, the first being the genesis mint, the second is bonds revenue on wETH, sOHM, and MNFST-OHM LP bonds.
 
 As a user, be mindful that bonding is an active, short-term strategy and has a vesting term of five days before you can claim and stake your MNFST. By selling MNFST at a discount, we can acquire reserve assets into our treasury.
 
-Protocol-Owned Liquidity (POL)
+*Protocol-Owned Liquidity (POL)*
 
 The MNFST-OHM Sushiswap pool is another revenue stream. By being the largest liquidity provider, we earn most of the fees on swaps in the MNFST-OHM liquidity pool.
 Why Manifest
