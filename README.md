@@ -20,6 +20,7 @@ By Season 1, when Good Vibes Ohmly will have greater demand and more than 999 NF
 If our demand is high, we can raise the amount of GVO required to mint, therefore regulating supply and demand. Drops can be time-limited, meaning unlimited NFTs can be sold within a certain period of time. Or, drops can be limited, meaning there’s a set supply of outstanding NFTs that can be minted. All of these factors go into consideration when deciding how much GVO to charge for each NFT.
 
 **Phases**
+
 Good Vibes Ohmly launches in three phases, the first phase is staking and bonding launching at the same time as the genesis drop. We’re launching the season zero : genesis drop, staking, and bonding on TBC
 
 The second phase is GVO/NFT pools allowing users to sell/buy/stake their NFTs. Guaranteed liquidity if you’re selling your NFT, easy way to buy if you want an NFT, and a way to earn GVO if you just want to stake your NFT in the pool.
@@ -27,6 +28,7 @@ The second phase is GVO/NFT pools allowing users to sell/buy/stake their NFTs. G
 The third phase is an easy-to-use frontend to claim your physical art. Swapping your NFT for a claimed version of the NFT, that swap generating a transaction hash, then deriving a QR code from that transaction hash, and finally, stitching it onto the physical art. Then creating a simple user experience to submit your address, size, and email for confirmation & shipping updates.
 
 **Who can mint?**
+
 Minting will open at Perfect Timing on TBC. Minting will be open to people that secured their spot through boosting or joining the Discord before TBC, 3:33 PM EST. To all of the people who had one-on-one conversations with us, those that spoke with us on voice, and those that aligned themselves.
 
 When about 300 people have secured their spot to mint, minting will be open until all 666 NFTs are sold out, with a max mint of three NFTs, and one max per transaction. There will be 666 NFTs available, with 222 of each NFT design.
@@ -34,14 +36,17 @@ When about 300 people have secured their spot to mint, minting will be open unti
 There are 999 NFTs in total, 333 are reserved for the treasury & team, 90 of the 333 reserved NFTs will go to the team. This results in a 9% team, 24% treasury, and 67% public split.
 
 **Staking**
+
 If you mint the Genesis NFTs, you automagically receive 33 sGVO, rebasing every eight hours compounding at 333,333% APY. Staked sGVO can be unstaked for GVO, which can be sold to the GVO-OHM Sushiswap liquidity pool (LP) at any time. No restrictions, no lock-ups.
 
 **Bonding**
+
 Bonding will be available at launch as the second value accrual strategy, the first being the genesis mint, the second is bonds revenue on wETH, sOHM, and GVO-OHM LP bonds.
 
 As a user, be mindful that bonding is an active, short-term strategy and has a vesting term of five days before you can claim and stake your GVO. By selling GVO at a discount, we can acquire reserve assets into our treasury.
 
-Protocol-Owned Liquidity (POL)
+**Protocol-Owned Liquidity (POL)**
+
 The GVO-OHM Sushiswap pool is another revenue stream. By being the largest liquidity provider, we earn most of the fees on swaps in the GVO-OHM liquidity pool.
 
 OHM is our reserve currency (1 GVO is backed by 0.001 OHM), all OHM in treasury is staked (3,3), and all GVO is staked from the beginning by default. We are a brand and Olympus is the bank.
