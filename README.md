@@ -1,3 +1,4 @@
+Brain Dump Draft https://livethelife.tv/shared-adventure/
 
 **What's next ser**
 
