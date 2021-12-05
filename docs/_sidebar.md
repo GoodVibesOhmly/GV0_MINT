@@ -1,7 +1,7 @@
 
 
 
-- Section 1
+- Why OlympusDAO
     - [part 1](section-1/part-1.md "Custom Page Title for better SEO")
     - [part 2](section-1/part-2.md)
 
