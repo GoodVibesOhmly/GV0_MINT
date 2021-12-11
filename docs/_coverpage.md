@@ -11,7 +11,12 @@
 - Ok, ok, I can't take this anymore
 - (⚓️,⚓️ )
 
-[GitHub](https://github.com/GoodVibesOhmly/Solid)
 [Explore](section-1/part-1)
 
-![color](#f0f0f0)
+<!-- ![color](#f0f0f0) -->
+
+
+<!-- background image -->
+
+![](_media/gvo_bg.jpeg)
+
