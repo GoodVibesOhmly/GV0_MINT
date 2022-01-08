@@ -1,3 +1,7 @@
+Examples NFT CONTRACT & STAKED ECR-20 CONTRACT
+
+GVO is 100% staked at the beginning by the genesis NFT sale also being the GVO sale, and automatically stake 33 sGVO on your behalf per each NFT that you mint. 
+
 The season zero genesis NFT sale is the GVO sale. 
 
 In total, there are 999 NFTs with 333 NFTs of each of the 3 designs. Only 666 will be available for public sale, 222 of each of the three designs. The team will retain 90 out of 333 NFTs. Equivalent to 2970 GVO out of 32967 outstanding GVO supply. The remaining 243 NFTs will be kept within our treasury to seed our Genesis Pools where you will be able to stake your NFTs to earn GVO anytime a buy or sell is done within the pool.
@@ -49,10 +53,6 @@ The GVO-OHM Sushiswap pool is another revenue stream. By being the largest liqui
 OHM is our reserve currency (1 GVO is backed by 0.001 OHM), all OHM in treasury is staked (3,3), and all GVO is staked from the beginning by default. We are a brand and Olympus is the bank.
 
 It’s important to note; by using OHM as Good Vibes Ohmly’s reserve currency we get exposure to the best parts of DeFi. They handle the curation of the best assets (wETH, DAI, FRAX, LUSD, CVX, and more) to acquire into their treasury. By acquiring OHM, we automatically get exposure to a basket of the best assets in DeFi. This allows us to simplify Good Vibes Ohmly’s treasury by only holding OHM, ETH, and GVO and focus on core products by choosing Olympus as both the decentralized reserve currency and bank.
-
-GVO is 100% staked at the beginning by the genesis NFT sale also being the GVO sale, and automatically stake 33 sGVO on your behalf per each NFT that you mint. Cooperation is incentivized, to unstake you must pay gas fees.
-No doubt it will be a voyage marked by an intellectual wandering of self-discovery. 
- 
  
  
  
